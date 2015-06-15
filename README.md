@@ -9,6 +9,7 @@ it will be useful on small list or grid view on scroll view.
 ### License
 
 the views that are deployed from the beginning
+
 The MIT License (MIT)
 
 Copyright (c) 2015 tanukiti1987
